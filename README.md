@@ -110,7 +110,7 @@ print(y_new_pred_test)
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone <(https://github.com/ASanjayVarma/TeacherProjectApprovability.git)>
 ```
 
 2. Navigate to the project directory and open the Jupyter notebook:
