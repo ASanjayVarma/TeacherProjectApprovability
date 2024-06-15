@@ -121,6 +121,4 @@ jupyter notebook TPAP.ipynb
 
 3. Follow the steps in the notebook to preprocess the data, train the model, evaluate its performance, and make predictions.
 
-## License
 
-This project is licensed under the MIT License.
